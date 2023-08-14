@@ -1,0 +1,14 @@
+.click {
+font-size: 28px;
+font-family: Helvetica, 'Times New Roman', sans-serif;
+}
+
+.click.here {
+    background-color: black;
+    color: white;
+}
+
+.click.me {
+    background-color: yellow;
+    color: red;
+}

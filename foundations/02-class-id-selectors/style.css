@@ -1,0 +1,19 @@
+.init {
+background-color: rgb(255, 182, 193);
+font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+.final {
+    font-size: 24px;
+}
+
+#start {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+#diff {
+    background-color: #90ee90;
+    font-size: 24px;
+    font-weight: bold;
+}
